@@ -2,7 +2,7 @@
 This repository provides functions that help you find duplicate images in a database. It's designed specifically for scientific plagiarism detection, allowing you to identify instances where the same image has been reused. By using these functions, you can compare images effectively and quickly detect potential duplicates. The full description of the original task can be found in task.pdf.
 
 To run this notebook, download and unzip the data and add it to the repository:
-https://drive.google.com/file/d/1Gg2eIbPBE4xpyvCiHrEzMQw4XRsAiYbk/view?usp=share_link
+https://drive.google.com/file/d/1ntw622ZE2NykL5FOX-QzoEUwPJe9iN9L/view?usp=sharing
 
 We offer two approaches for duplicate image detection viz. template matching and a deep learning approach (in experiments). 
 
